@@ -37,7 +37,7 @@ Display:
 To get direct link of an audio, add ?raw=true to the end:
 https://github.com/erickouassi/jsoncatholic/blob/main/Apostles-Creed.mp4?raw=true
 
- [Play sound file](https://github.com/erickouassi/jsoncatholic/blob/main/Apostles-Creed.mp4?raw=true)
+ [Download & Play sound file](https://github.com/erickouassi/jsoncatholic/blob/main/Apostles-Creed.mp4?raw=true)
 
 
 To create a media player as part of the web page
