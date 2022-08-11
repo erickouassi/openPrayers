@@ -22,7 +22,17 @@ Create a fork of this repository (A fork is a copy of a repository).
 To get the direct link of an image, add ?raw=true to the end:
 https://github.com/erickouassi/jsoncatholic/blob/main/jesus-cross.jpg?raw=true
 
+
+```
+<img src="https://github.com/erickouassi/jsoncatholic/blob/main/jesus-cross.jpg?raw=true" alt="Jesus-cross">
+}
+```
+
+Display:
+
 ![This is an image](https://github.com/erickouassi/jsoncatholic/blob/main/jesus-cross.jpg?raw=true)
+
+
 
 To get direct link of a mp3, add ?raw=true to the end:
 https://github.com/erickouassi/jsoncatholic/blob/main/SDA-songs-by-AGAPE-Church-JESUS.mp3?raw=true
