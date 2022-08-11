@@ -10,8 +10,9 @@ Christian literally means follower of Jesus Christ, so all followers of Jesus ar
 
 ## Endpoints
 The endpoints return data in json format:
+[rosary/rosary-day.json](https://raw.githubusercontent.com/erickouassi/jsoncatholic/main/rosary-day.json)
 
-` https://raw.githubusercontent.com/erickouassi/jsoncatholic/main/prayers.json`
+` https://raw.githubusercontent.com/erickouassi/jsoncatholic/main/rosary-day.json`
 
 Result
 
