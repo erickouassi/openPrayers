@@ -9,8 +9,9 @@ Christian literally means follower of Jesus Christ, so all followers of Jesus ar
 `Your-Username-Here` will replace my-username: `erickoussi`
 
 ## Endpoints
+To get direct link of `.json` file as a Read-Only API, you add `?raw=true` 
 The endpoints return data in json format:
-[.../rosary-day.json](https://raw.githubusercontent.com/erickouassi/jsoncatholic/main/rosary/rosary_day.json)
+[.../rosary-day.json?raw=true](https://raw.githubusercontent.com/erickouassi/jsoncatholic/main/rosary/rosary_day.json)
 
 ` https://github.com/erickouassi/jsoncatholic/blob/main/rosary/rosary_day.json?raw=true`
 
