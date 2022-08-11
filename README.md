@@ -24,6 +24,10 @@ https://github.com/erickouassi/jsoncatholic/blob/main/jesus-cross.jpg?raw=true
 
 ![This is an image](https://github.com/erickouassi/jsoncatholic/blob/main/jesus-cross.jpg?raw=true)
 
+To get direct link of a mp3, add ?raw=true to the end:
+https://github.com/erickouassi/jsoncatholic/blob/main/SDA-songs-by-AGAPE-Church-JESUS.mp3?raw=true
+![This is an audio mp3](https://github.com/erickouassi/jsoncatholic/blob/main/SDA-songs-by-AGAPE-Church-JESUS.mp3?raw=true)
+
 # Usage and feedback
 Feel free to use this however you'd like! 
 I'm primarily maintaining this for my own use cases. 
