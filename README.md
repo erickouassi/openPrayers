@@ -6,15 +6,16 @@ Christian literally means follower of Jesus Christ, so all followers of Jesus ar
 1. Fork the repository in your account [Click here](https://github.com/erickouassi/jsoncatholic/fork)
 2. Clone your repository to make a local copy, URL will be `https://Your-Username-Here.github.io/jsoncatholic`
 
-`Your-Username-Here` will replace my-username: `erickoussi`
 
 ## Endpoints
+### `Your-Username-Here` will replace my-username: `erickoussi`
+
 To get direct link of `.json` file as a Read-Only API, you add `?raw=true`.
 
 The endpoints return data in json format:
 [.../rosary-day.json?raw=true](https://raw.githubusercontent.com/erickouassi/jsoncatholic/main/rosary/rosary_day.json)
 
-` https://github.com/erickouassi/jsoncatholic/blob/main/rosary/rosary_day.json?raw=true`
+` https://github.com/Your-Username-Here/jsoncatholic/blob/main/rosary/rosary_day.json?raw=true`
 
 Result
 
@@ -87,12 +88,12 @@ Result
 ## Image
 To get the direct link of an image, you add `?raw=true` 
 
-`https://github.com/erickouassi/jsoncatholic/blob/main/jesus-cross.jpg?raw=true`
+`https://github.com/Your-Username-Here/jsoncatholic/blob/main/jesus-cross.jpg?raw=true`
 
 ## Audio
 To get direct link of an audio, you add `?raw=true` 
 
-`https://github.com/erickouassi/jsoncatholic/blob/main/Apostles-Creed.mp4?raw=true`
+`https://github.com/Your-Username-Here/jsoncatholic/blob/main/Apostles-Creed.mp4?raw=true`
 
 
 **Full Tutorial blog post:** *coming soon!*
