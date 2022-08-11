@@ -17,7 +17,12 @@ Open Source does not mean free of charge, it means freedom.
 Create a fork of this repository (A fork is a copy of a repository).
 1. Fork the repository in your account [Click here](https://github.com/erickouassi/jsoncatholic/fork)
 2. Clone your repository, URL will be https://Your-Username-Here.github.io/jsoncatholic
+3. Feel free to use your repository however you'd like!
+### Examples
+To add an image:
+https://github.com/erickouassi/files/blob/master/trex.jpg?raw=true
 
+![This is an image](https://github.com/erickouassi/files/blob/master/trex.jpg?raw=true)
 
 # Usage and feedback
 Feel free to use this however you'd like! 
