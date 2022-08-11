@@ -10,9 +10,9 @@ Christian literally means follower of Jesus Christ, so all followers of Jesus ar
 
 ## Endpoints
 The endpoints return data in json format:
-[rosary/rosary-day.json](https://github.com/erickouassi/jsoncatholic/blob/main/rosary/rosary-day.json)
+[rosary/rosary-day.json](https://raw.githubusercontent.com/erickouassi/jsoncatholic/main/rosary/rosary-day.json)
 
-` https://github.com/erickouassi/jsoncatholic/blob/main/rosary/rosary-day.json`
+` https://github.com/erickouassi/jsoncatholic/blob/main/rosary/rosary-day.json?raw=true`
 
 Result
 
@@ -79,7 +79,7 @@ Result
       "season":"Advent",
       "currentdate":"January 7, 2022",
       "mp3Link":"audio-rosary-sorrowful-mysteries.mp3"
-   },
+   }
    ]`
 
 ## Image
