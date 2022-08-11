@@ -35,7 +35,7 @@ Display:
 
 
 To get direct link of an audio, add ?raw=true to the end:
-https://github.com/erickouassi/jsoncatholic/blob/main/SDA-songs-by-AGAPE-Church-JESUS.mp3?raw=true
+https://github.com/erickouassi/jsoncatholic/blob/main/Apostles-Creed.mp4?raw=true
 
  [Play sound file](https://user-images.githubusercontent.com/39168930/184055798-dffb29c9-58e2-4d45-8cf5-8ab8b9fe6174.mp4)
 
@@ -44,7 +44,7 @@ To create a media player as part of the web page
 
 ```
 <audio controls>
-  <source src="https://github.com/erickouassi/jsoncatholic/blob/main/SDA-songs-by-AGAPE-Church-JESUS.mp3?raw=true" />
+  <source src="https://github.com/erickouassi/jsoncatholic/blob/main/Apostles-Creed.mp4?raw=true" />
 </audio>
 ```
 
