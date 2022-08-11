@@ -37,11 +37,18 @@ Display:
 To get direct link of a mp3, add ?raw=true to the end:
 https://github.com/erickouassi/jsoncatholic/blob/main/SDA-songs-by-AGAPE-Church-JESUS.mp3?raw=true
 
-![This is an audio mp3](https://github.com/erickouassi/jsoncatholic/blob/main/SDA-songs-by-AGAPE-Church-JESUS.mp3?raw=true)
+```
+<a href="https://user-images.githubusercontent.com/39168930/184055798-dffb29c9-58e2-4d45-8cf5-8ab8b9fe6174.mp4">Play sound file</a>
+}
+```
 
+To create a media player as part of the web page
 
-
-https://user-images.githubusercontent.com/39168930/184055798-dffb29c9-58e2-4d45-8cf5-8ab8b9fe6174.mp4
+```
+<audio controls>
+  <source src="https://github.com/erickouassi/jsoncatholic/blob/main/SDA-songs-by-AGAPE-Church-JESUS.mp3?raw=true" />
+</audio>
+```
 
 
 
