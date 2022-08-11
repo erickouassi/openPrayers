@@ -8,7 +8,7 @@ Christian literally means follower of Jesus Christ, so all followers of Jesus ar
 
 
 ## Endpoints
-- `Your-Username-Here` will replace my-username: `erickoussi` -
+-`Your-Username-Here` will replace my-username: `erickoussi`-
 
 To get direct link of `.json` file as a Read-Only API, you add `?raw=true`.
 
