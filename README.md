@@ -6,16 +6,21 @@ Christian literally means follower of Jesus Christ, so all followers of Jesus ar
 1. Fork the repository in your account [Click here](https://github.com/erickouassi/jsoncatholic/fork)
 2. Clone your repository to make a local copy, URL will be `https://Your-Username-Here.github.io/jsoncatholic`
 
+`Your-Username-Here` will replace my-username: `erickoussi`
+
 ## Get
-To read the complete data set from a .json file you make a get request to the API or URL which has the basic structure of
+To read `.json` file you make a get request as an API which has the basic structure of
+
 ` https://raw.githubusercontent.com/erickouassi/jsoncatholic/main/prayers.json`
 
 ## Image
-To get the direct link of an image 
+To get the direct link of an image, you add `?raw=true` 
+
 `https://github.com/erickouassi/jsoncatholic/blob/main/jesus-cross.jpg?raw=true`
 
 ## Audio
-To get direct link of an audio
+To get direct link of an audio, you add `?raw=true` 
+
 `https://github.com/erickouassi/jsoncatholic/blob/main/Apostles-Creed.mp4?raw=true`
 
 
