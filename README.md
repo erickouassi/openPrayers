@@ -12,11 +12,11 @@ Open Source does not mean free of charge, it means freedom.
 
 
 # Source Code
-## Self-hosting
+## Self-hosting & Usage
 
 Create a fork of this repository (A fork is a copy of a repository).
 1. Fork the repository in your account [Click here](https://github.com/erickouassi/jsoncatholic/fork)
-2. Clone your repository and feel free to use this however you'd like! 
+2. Clone your repository, URL will be [https://<your-username>.github.io/jsoncatholic](href="#")
 
 
 # Usage and feedback
