@@ -1,7 +1,7 @@
 # {JSON} 🔥 Catholic Prayers and Devotions
 
 
-## Create a fork of this repository
+### Create a fork of this repository
  *(A fork is a copy of a repository)*.
 1. Fork the repository in your account [Click here](https://github.com/erickouassi/jsoncatholic/fork)
 2. Clone your repository to make a local copy,<br />
@@ -35,9 +35,11 @@ Result:
 ### Other Resources
 - The saints `Coming soon!`
 
-- The Stations of the Cross `Coming soon!`
+- The Stations of the Cross [./stations_of_the_cross.json?raw=true](https://raw.githubusercontent.com/erickouassi/jsoncatholic/main/stations_of_the_cross.json)
 
 - The verse of the day `Coming soon!`
+
+- Divine Mercy Novena `Coming soon!`
 
 
 ## Example of Direct Link to Github Files
