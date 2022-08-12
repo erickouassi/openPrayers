@@ -1,0 +1,2922 @@
+[
+    {
+      "index_day": "1",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Advent",
+      "current_date": "January 1, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "2",
+      "current_day": "Sunday",
+      "name": "Joyful",
+      "season": "Advent",
+      "current_date": "January 2, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "3",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Advent",
+      "current_date": "January 3, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "4",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Advent",
+      "current_date": "January 4, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "5",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Advent",
+      "current_date": "January 5, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "6",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Advent",
+      "current_date": "January 6, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "7",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Advent",
+      "current_date": "January 7, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "8",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Advent",
+      "current_date": "January 8, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "9",
+      "current_day": "Sunday",
+      "name": "Joyful",
+      "season": "Advent",
+      "current_date": "January 9, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "10",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "January 10, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "11",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "January 11, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "12",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "January 12, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "13",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "January 13, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "14",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "January 14, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "15",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "January 15, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "16",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "January 16, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "17",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "January 17, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "18",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "January 18, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "19",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "January 19, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "20",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "January 20, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "21",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "January 21, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "22",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "January 22, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "23",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "January 23, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "24",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "January 24, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "25",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "January 25, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "26",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "January 26, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "27",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "January 27, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "28",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "January 28, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "29",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "January 29, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "30",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "January 30, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "31",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "January 31, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "32",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "February 1, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "33",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "February 2, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "34",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "February 3, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "35",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "February 4, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "36",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "February 5, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "37",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "February 6, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "38",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "February 7, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "39",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "February 8, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "40",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "February 9, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "41",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "February 10, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "42",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "February 11, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "43",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "February 12, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "44",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "February 13, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "45",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "February 14, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "46",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "February 15, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "47",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "February 16, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "48",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "February 17, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "49",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "February 18, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "50",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "February 19, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "51",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "February 20, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "52",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "February 21, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "53",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "February 22, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "54",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "February 23, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "55",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "February 24, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "56",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "February 25, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "57",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "February 26, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "58",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "February 27, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "59",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "February 28, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "60",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "March 1, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "61",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Lent",
+      "current_date": "March 2, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "62",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Lent",
+      "current_date": "March 3, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "63",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "March 4, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "64",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Lent",
+      "current_date": "March 5, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "65",
+      "current_day": "Sunday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "March 6, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "66",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Lent",
+      "current_date": "March 7, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "67",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Lent",
+      "current_date": "March 8, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "68",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Lent",
+      "current_date": "March 9, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "69",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Lent",
+      "current_date": "March 10, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "70",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "March 11, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "71",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Lent",
+      "current_date": "March 12, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "72",
+      "current_day": "Sunday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "March 13, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "73",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Lent",
+      "current_date": "March 14, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "74",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Lent",
+      "current_date": "March 15, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "75",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Lent",
+      "current_date": "March 16, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "76",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Lent",
+      "current_date": "March 17, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "77",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "March 18, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "78",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Lent",
+      "current_date": "March 19, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "79",
+      "current_day": "Sunday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "March 20, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "80",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Lent",
+      "current_date": "March 21, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "81",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Lent",
+      "current_date": "March 22, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "82",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Lent",
+      "current_date": "March 23, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "83",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Lent",
+      "current_date": "March 24, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "84",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "March 25, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "85",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Lent",
+      "current_date": "March 26, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "86",
+      "current_day": "Sunday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "March 27, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "87",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Lent",
+      "current_date": "March 28, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "88",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Lent",
+      "current_date": "March 29, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "89",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Lent",
+      "current_date": "March 30, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "90",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Lent",
+      "current_date": "March 31, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "91",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "April 1, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "92",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Lent",
+      "current_date": "April 2, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "93",
+      "current_day": "Sunday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "April 3, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "94",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Lent",
+      "current_date": "April 4, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "95",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Lent",
+      "current_date": "April 5, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "96",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Lent",
+      "current_date": "April 6, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "97",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Lent",
+      "current_date": "April 7, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "98",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "April 8, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "99",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Lent",
+      "current_date": "April 9, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "100",
+      "current_day": "Sunday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "April 10, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "101",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Lent",
+      "current_date": "April 11, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "102",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Lent",
+      "current_date": "April 12, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "103",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Lent",
+      "current_date": "April 13, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "104",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Lent",
+      "current_date": "April 14, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "105",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "April 15, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "106",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Lent",
+      "current_date": "April 16, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "107",
+      "current_day": "Sunday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "April 17, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "108",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Lent",
+      "current_date": "April 18, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "109",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Lent",
+      "current_date": "April 19, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "110",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Lent",
+      "current_date": "April 20, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "111",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Lent",
+      "current_date": "April 21, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "112",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "April 22, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "113",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Lent",
+      "current_date": "April 23, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "114",
+      "current_day": "Sunday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "April 24, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "115",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Lent",
+      "current_date": "April 25, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "116",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Lent",
+      "current_date": "April 26, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "117",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Lent",
+      "current_date": "April 27, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "118",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Lent",
+      "current_date": "April 28, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "119",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "April 29, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "120",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Lent",
+      "current_date": "April 30, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "121",
+      "current_day": "Sunday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "May 1, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "122",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Lent",
+      "current_date": "May 2, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "123",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Lent",
+      "current_date": "May 3, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "124",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Lent",
+      "current_date": "May 4, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "125",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Lent",
+      "current_date": "May 5, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "126",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "May 6, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "127",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Lent",
+      "current_date": "May 7, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "128",
+      "current_day": "Sunday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "May 8, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "129",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Lent",
+      "current_date": "May 9, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "130",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Lent",
+      "current_date": "May 10, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "131",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Lent",
+      "current_date": "May 11, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "132",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Lent",
+      "current_date": "May 12, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "133",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "May 13, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "134",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Lent",
+      "current_date": "May 14, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "135",
+      "current_day": "Sunday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "May 15, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "136",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Lent",
+      "current_date": "May 16, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "137",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Lent",
+      "current_date": "May 17, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "138",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Lent",
+      "current_date": "May 18, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "139",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Lent",
+      "current_date": "May 19, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "140",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "May 20, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "141",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Lent",
+      "current_date": "May 21, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "142",
+      "current_day": "Sunday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "May 22, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "143",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Lent",
+      "current_date": "May 23, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "144",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Lent",
+      "current_date": "May 24, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "145",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Lent",
+      "current_date": "May 25, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "146",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Lent",
+      "current_date": "May 26, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "147",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "May 27, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "148",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Lent",
+      "current_date": "May 28, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "149",
+      "current_day": "Sunday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "May 29, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "150",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Lent",
+      "current_date": "May 30, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "151",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Lent",
+      "current_date": "May 31, 2022",
+      "color": "White"
+    },
+    {
+      "index_day": "152",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Lent",
+      "current_date": "June 1, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "153",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Lent",
+      "current_date": "June 2, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "154",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "June 3, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "155",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Lent",
+      "current_date": "June 4, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "156",
+      "current_day": "Sunday",
+      "name": "Sorrowful",
+      "season": "Lent",
+      "current_date": "June 5, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "157",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "June 6, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "158",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "June 7, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "159",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "June 8, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "160",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "June 9, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "161",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "June 10, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "162",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "June 11, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "163",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "June 12, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "164",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "June 13, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "165",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "June 14, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "166",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "June 15, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "167",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "June 16, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "168",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "June 17, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "169",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "June 18, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "170",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "June 19, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "171",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "June 20, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "172",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "June 21, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "173",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "June 22, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "174",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "June 23, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "175",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "June 24, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "176",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "June 25, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "177",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "June 26, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "178",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "June 27, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "179",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "June 28, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "180",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "June 29, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "181",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "June 30, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "182",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "July 1, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "183",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "July 2, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "184",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "July 3, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "185",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "July 4, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "186",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "July 5, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "187",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "July 6, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "188",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "July 7, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "189",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "July 8, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "190",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "July 9, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "191",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "July 10, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "192",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "July 11, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "193",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "July 12, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "194",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "July 13, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "195",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "July 14, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "196",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "July 15, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "197",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "July 16, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "198",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "July 17, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "199",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "July 18, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "200",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "July 19, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "201",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "July 20, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "202",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "July 21, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "203",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "July 22, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "204",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "July 23, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "205",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "July 24, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "206",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "July 25, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "207",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "July 26, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "208",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "July 27, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "209",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "July 28, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "210",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "July 29, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "211",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "July 30, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "212",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "July 31, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "213",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "August 1, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "214",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "August 2, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "215",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "August 3, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "216",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "August 4, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "217",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "August 5, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "218",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "August 6, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "219",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "August 7, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "220",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "August 8, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "221",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "August 9, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "222",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "August 10, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "223",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "August 11, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "224",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "August 12, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "225",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "August 13, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "226",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "August 14, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "227",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "August 15, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "228",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "August 16, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "229",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "August 17, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "230",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "August 18, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "231",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "August 19, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "232",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "August 20, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "233",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "August 21, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "234",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "August 22, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "235",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "August 23, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "236",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "August 24, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "237",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "August 25, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "238",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "August 26, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "239",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "August 27, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "240",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "August 28, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "241",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "August 29, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "242",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "August 30, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "243",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "August 31, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "244",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "September 1, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "245",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "September 2, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "246",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "September 3, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "247",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "September 4, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "248",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "September 5, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "249",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "September 6, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "250",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "September 7, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "251",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "September 8, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "252",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "September 9, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "253",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "September 10, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "254",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "September 11, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "255",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "September 12, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "256",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "September 13, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "257",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "September 14, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "258",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "September 15, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "259",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "September 16, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "260",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "September 17, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "261",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "September 18, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "262",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "September 19, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "263",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "September 20, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "264",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "September 21, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "265",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "September 22, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "266",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "September 23, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "267",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "September 24, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "268",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "September 25, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "269",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "September 26, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "270",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "September 27, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "271",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "September 28, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "272",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "September 29, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "273",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "September 30, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "274",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "October 1, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "275",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "October 2, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "276",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "October 3, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "277",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "October 4, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "278",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "October 5, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "279",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "October 6, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "280",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "October 7, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "281",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "October 8, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "282",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "October 9, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "283",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "October 10, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "284",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "October 11, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "285",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "October 12, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "286",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "October 13, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "287",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "October 14, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "288",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "October 15, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "289",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "October 16, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "290",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "October 17, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "291",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "October 18, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "292",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "October 19, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "293",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "October 20, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "294",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "October 21, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "295",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "October 22, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "296",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "October 23, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "297",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "October 24, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "298",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "October 25, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "299",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "October 26, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "300",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "October 27, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "301",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "October 28, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "302",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "October 29, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "303",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "October 30, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "304",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "October 31, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "305",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "November 1, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "306",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "November 2, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "307",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "November 3, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "308",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "November 4, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "309",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "November 5, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "310",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "November 6, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "311",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "November 7, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "312",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "November 8, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "313",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "November 9, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "314",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "November 10, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "315",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "November 11, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "316",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "November 12, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "317",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "November 13, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "318",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "November 14, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "319",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "November 15, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "320",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "November 16, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "321",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "November 17, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "322",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "November 18, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "323",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "November 19, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "324",
+      "current_day": "Sunday",
+      "name": "Glorious",
+      "season": "Ordinary Time",
+      "current_date": "November 20, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "325",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Ordinary Time",
+      "current_date": "November 21, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "326",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Ordinary Time",
+      "current_date": "November 22, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "327",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Ordinary Time",
+      "current_date": "November 23, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "328",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Ordinary Time",
+      "current_date": "November 24, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "329",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Ordinary Time",
+      "current_date": "November 25, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "330",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Ordinary Time",
+      "current_date": "November 26, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "331",
+      "current_day": "Sunday",
+      "name": "Joyful",
+      "season": "Advent",
+      "current_date": "November 27, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "332",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Advent",
+      "current_date": "November 28, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "333",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Advent",
+      "current_date": "November 29, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "334",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Advent",
+      "current_date": "November 30, 2022",
+      "color": "Green"
+    },
+    {
+      "index_day": "335",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Advent",
+      "current_date": "December 1, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "336",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Advent",
+      "current_date": "December 2, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "337",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Advent",
+      "current_date": "December 3, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "338",
+      "current_day": "Sunday",
+      "name": "Joyful",
+      "season": "Advent",
+      "current_date": "December 4, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "339",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Advent",
+      "current_date": "December 5, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "340",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Advent",
+      "current_date": "December 6, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "341",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Advent",
+      "current_date": "December 7, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "342",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Advent",
+      "current_date": "December 8, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "343",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Advent",
+      "current_date": "December 9, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "344",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Advent",
+      "current_date": "December 10, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "345",
+      "current_day": "Sunday",
+      "name": "Joyful",
+      "season": "Advent",
+      "current_date": "December 11, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "346",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Advent",
+      "current_date": "December 12, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "347",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Advent",
+      "current_date": "December 13, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "348",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Advent",
+      "current_date": "December 14, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "349",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Advent",
+      "current_date": "December 15, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "350",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Advent",
+      "current_date": "December 16, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "351",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Advent",
+      "current_date": "December 17, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "352",
+      "current_day": "Sunday",
+      "name": "Joyful",
+      "season": "Advent",
+      "current_date": "December 18, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "353",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Advent",
+      "current_date": "December 19, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "354",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Advent",
+      "current_date": "December 20, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "355",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Advent",
+      "current_date": "December 21, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "356",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Advent",
+      "current_date": "December 22, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "357",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Advent",
+      "current_date": "December 23, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "358",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Advent",
+      "current_date": "December 24, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "359",
+      "current_day": "Sunday",
+      "name": "Joyful",
+      "season": "Advent",
+      "current_date": "December 25, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "360",
+      "current_day": "Monday",
+      "name": "Joyful ",
+      "season": "Advent",
+      "current_date": "December 26, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "361",
+      "current_day": "Tuesday",
+      "name": "Sorrowful ",
+      "season": "Advent",
+      "current_date": "December 27, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "362",
+      "current_day": "Wednesday",
+      "name": "Glorious ",
+      "season": "Advent",
+      "current_date": "December 28, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "363",
+      "current_day": "Thursday",
+      "name": "Luminous ",
+      "season": "Advent",
+      "current_date": "December 29, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "364",
+      "current_day": "Friday",
+      "name": "Sorrowful",
+      "season": "Advent",
+      "current_date": "December 30, 2022",
+      "color": "Purple"
+    },
+    {
+      "index_day": "365",
+      "current_day": "Saturday",
+      "name": "Joyful",
+      "season": "Advent",
+      "current_date": "December 31, 2022",
+      "color": "Purple"
+    }
+  ]
