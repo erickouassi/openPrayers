@@ -4,7 +4,7 @@
 ## Create a fork of this repository
  *(A fork is a copy of a repository)*.
 1. Fork the repository in your account [Click here](https://github.com/erickouassi/jsoncatholic/fork)
-2. Clone your repository to make a local copy, URL will be `https://Your-Username-Here.github.io/jsoncatholic`
+2. Clone your repository to make a local copy, URL will be `https://<<Your-Username-Here>>.github.io/jsoncatholic`
 
 Note: -`Your-Username-Here` will replace my-username: `erickoussi`-
 
