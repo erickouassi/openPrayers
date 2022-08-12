@@ -7,7 +7,7 @@
 2. Clone your repository to make a local copy,<br />
 URL will be `https://<<Your-Username-Here>>.github.io/jsoncatholic`
 
-Note: -`Your-Username-Here` will replace my-username: `erickoussi`-
+Note: `Your-Username-Here` will replace my-username: `erickoussi`
 
 ### Basic Prayers
 
@@ -62,8 +62,10 @@ To get direct link of an audio, you add `?raw=true`
 `https://github.com/Your-Username-Here/jsoncatholic/blob/main/Apostles-Creed.mp4?raw=true`
 
 
-**Full Tutorial blog post:** *coming soon!*
-
+## Bugs and feature requests
+Any problem? Please report it: all bugs, feature requests, pull requests, feedback, etc., are welcome!
+First search for [existing and closed issues](https://github.com/erickouassi/jsoncatholic/issues?utf8=%E2%9C%93&q=is%3Aissue). <br />
+If your problem or idea is not addressed yet, please [open a new issue](https://github.com/erickouassi/jsoncatholic/issues/new?template=issue).
 **If you have questions:**  [erickouassi.com/contact](https://erickouassi.com/contact.html)
 
 I am primarily maintaining this repository for my own use cases. If you want any help setting your rosary web app for yourself, group or church, I’d love to help! [contact me here](https://erickouassi.com/contact.html).
