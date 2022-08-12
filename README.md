@@ -65,7 +65,8 @@ To get direct link of an audio, you add `?raw=true`
 ## Bugs and feature requests
 Any problem? Please report it: all bugs, feature requests, pull requests, feedback, etc., are welcome!
 First search for [existing and closed issues](https://github.com/erickouassi/jsoncatholic/issues?utf8=%E2%9C%93&q=is%3Aissue). <br />
-If your problem or idea is not addressed yet, please [open a new issue](https://github.com/erickouassi/jsoncatholic/issues/new?template=issue).
+If your problem or idea is not addressed yet, please [open a new issue](https://github.com/erickouassi/jsoncatholic/issues/new/choose).
+
 **If you have questions:**  [erickouassi.com/contact](https://erickouassi.com/contact.html)
 
 I am primarily maintaining this repository for my own use cases. If you want any help setting your rosary web app for yourself, group or church, I’d love to help! [contact me here](https://erickouassi.com/contact.html).
