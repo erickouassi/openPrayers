@@ -1,5 +1,5 @@
 # {JSON} 🔥 Catholic Prayers and Devotions
-
+Note: I am occasionally updating the code.
 
 ### Create a fork of this repository
  *(A fork is a copy of a repository)*.
@@ -34,11 +34,9 @@ Result:
 
 ### Other Resources
 - The saints `Coming soon!`
-
 - The Stations of the Cross [./stations_of_the_cross.json?raw=true](https://raw.githubusercontent.com/erickouassi/jsoncatholic/main/stations_of_the_cross.json)
 
 - The verse of the day `Coming soon!`
-
 - Divine Mercy Novena `Coming soon!`
 
 
@@ -76,3 +74,7 @@ I am primarily maintaining this repository for my own use cases.
 
 If you want any help setting your rosary web app for yourself, group or church, I’d love to help! [contact me here](https://erickouassi.com/contact.html).
 
+
+
+
+# # Happy Coding
