@@ -1,19 +1,33 @@
 # {JSON} 🔥 Catholic Prayers and Devotions
 Note: I am occasionally updating the code.
 
-### Create a fork of this repository
+## How to
  *(A fork is a copy of a repository)*.
 1. Fork the repository in your account [Click here](https://github.com/erickouassi/openPrayers/fork)
 2. Clone your repository to make a local copy,<br />
 URL will be `https://<<Your-Username-Here>>.github.io/openPrayers`
 
+To get direct link of `.json` file as a Read-Only API, you add `?raw=true`.<br />
+`https://github.com/Your-Username-Here/openPrayers/blob/main/rosary/rosary_day.json?raw=true`
+
+To get the direct link of an image, you add `?raw=true`. <br />
+`https://github.com/Your-Username-Here/openPrayers/blob/main/jesus-cross.jpg?raw=true`
+
+To get direct link of an audio, you add `?raw=true` <br />
+`https://github.com/Your-Username-Here/openPrayers/blob/main/Apostles-Creed.mp4?raw=true`
+
 Note: `Your-Username-Here` will replace my-username: `erickoussi`
 
-### <> Available resources
+## <> Available resources
 - Basic Prayer [./basic_prayers.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/basic_prayers.json)
 - Calendar 2022 [./dailyrosary_2022.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/rosary/dailyrosary_2022.json)
 - Rosary 7 days Audio [./rosary_day.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/rosary/rosary_day.json)
 - The Stations of the Cross [./stations_of_the_cross.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/stations_of_the_cross.json)
+
+#### Other Resources
+- The saints `Coming soon!`
+- The verse of the day `Coming soon!`
+- Divine Mercy Novena `Coming soon!`
 
 
 ## Bugs and feature requests
