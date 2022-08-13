@@ -4,11 +4,11 @@
  *(A fork is a copy of a repository)*.
 1. Fork the repository in your account [Click here](https://github.com/erickouassi/openPrayers/fork)
 2. Clone your repository to make a local copy
-3. Use your own data (`.json`, `.jpg`, `png`, and `mp3`)
+3. Use your own data (`.json`, `.jpg`, `.png`, and `.mp3`)
    
 Note:  Your URL will be `https://your-username.github.io/openPrayers`
 
-Direct link of the file with extension `.json`, `.jpg`, `png`, and `mp3`
+Direct link of the file with extension `.json`, `.jpg`, `.png`, and `.mp3`
 
 `https://github.com/your-username/your-repo/blob/main/your-file-name?raw=true`
 
