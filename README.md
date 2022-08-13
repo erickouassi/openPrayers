@@ -22,10 +22,24 @@ or
 - Rosary 7 days Audio [./rosary_day.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/rosary/rosary_day.json)
 - The Stations of the Cross [./stations_of_the_cross.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/stations_of_the_cross.json)
 
+
 #### feature requests
 - The saints `Coming soon!`
 - The verse of the day `Coming soon!`
 - Divine Mercy Novena `Coming soon!`
+
+
+```const options = {
+	method: 'GET',
+	headers: {
+		accept: 'application/json',
+		}
+};
+
+fetch('https://raw.githubusercontent.com/erickouassi/openPrayers/main/basic_prayers.json', options)
+	.then(response => response.json())
+	.then(response => console.log(response))
+	.catch(err => console.error(err));```
 
 
 ## Bugs and feature requests
