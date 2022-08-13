@@ -10,10 +10,10 @@ URL will be `https://<<Your-Username-Here>>.github.io/openPrayers`
 Note: `Your-Username-Here` will replace my-username: `erickoussi`
 
 ### <> Available resources
-- Basic Prayer [.../rosary-day.json?raw=true](https://raw.githubusercontent.com/erickouassi/openPrayers/main/basic_prayers.json)
-- Calendar 2022 [.../dailyrosary_2022.json?raw=true](https://raw.githubusercontent.com/erickouassi/openPrayers/main/rosary/dailyrosary_2022.json)
-- Rosary 7 days Audio [.../rosary-day.json?raw=true](https://raw.githubusercontent.com/erickouassi/openPrayers/main/rosary/rosary_day.json)
-- The Stations of the Cross [./stations_of_the_cross.json?raw=true](https://raw.githubusercontent.com/erickouassi/openPrayers/main/stations_of_the_cross.json)
+- Basic Prayer [./basic_prayers.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/basic_prayers.json)
+- Calendar 2022 [./dailyrosary_2022.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/rosary/dailyrosary_2022.json)
+- Rosary 7 days Audio [./rosary_day.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/rosary/rosary_day.json)
+- The Stations of the Cross [./stations_of_the_cross.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/stations_of_the_cross.json)
 
 
 ## Bugs and feature requests
