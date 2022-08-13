@@ -1,5 +1,4 @@
 # {JSON} 🔥 Catholic Prayers and Devotions
-Note: I am occasionally updating the code.
 
 ## How to
  *(A fork is a copy of a repository)*.
@@ -8,7 +7,8 @@ Note: I am occasionally updating the code.
    
 Note:  Your URL will be `https://your-username.github.io/openPrayers`
 
-Direct link of the file with extension `.json`, `.jpg`, `png`, and `mp3` <br />
+Direct link of the file with extension `.json`, `.jpg`, `png`, and `mp3`
+
 `https://github.com/your-username/your-repo/blob/main/your-file-name?raw=true`
 
 or 
@@ -21,7 +21,7 @@ or
 - Rosary 7 days Audio [./rosary_day.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/rosary/rosary_day.json)
 - The Stations of the Cross [./stations_of_the_cross.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/stations_of_the_cross.json)
 
-#### Other Resources
+#### feature requests
 - The saints `Coming soon!`
 - The verse of the day `Coming soon!`
 - Divine Mercy Novena `Coming soon!`
@@ -41,5 +41,6 @@ If you want any help setting your rosary web app for yourself, group or church, 
 
 
 
+Note: I am occasionally updating the code.
 
 Happy Coding
