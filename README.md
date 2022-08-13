@@ -17,6 +17,8 @@ or
 `https://raw.githubusercontent.com/your-username/your-repo/main/your-file-name`
 
 ## <> Available resources
+### Endpoints
+The API style has several endpoints to assist developers. Note that all the endpoints return JSON and are available over https. <br />
 - Basic Prayer [./basic_prayers.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/basic_prayers.json)
 - Calendar 2022 [./dailyrosary_2022.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/rosary/dailyrosary_2022.json)
 - Rosary 7 days Audio [./rosary_day.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/rosary/rosary_day.json)
@@ -28,19 +30,6 @@ or
 - The verse of the day `Coming soon!`
 - Divine Mercy Novena `Coming soon!`
 
-`
-const options = {
-	method: 'GET',
-	headers: {
-		accept: 'application/json',
-		}
-};
-
-fetch('https://raw.githubusercontent.com/erickouassi/openPrayers/main/basic_prayers.json', options)
-	.then(response => response.json())
-	.then(response => console.log(response))
-	.catch(err => console.error(err));
-`
 
 ## Bugs and feature requests
 Any problem? Please report it: all bugs, feature requests, pull requests, feedback, etc., are welcome!
