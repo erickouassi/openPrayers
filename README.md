@@ -27,10 +27,11 @@ The API style has several endpoints to assist developers. Note that all the endp
 - Rosary Prayer Calendar 2022 [./dailyrosary_2022.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/rosary/dailyrosary_2022.json)
 - Rosary Prayer 7-day Audios [./rosary_day.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/rosary/rosary_day.json)
 - The Stations of the Cross [./stations_of_the_cross.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/stations_of_the_cross.json)
+- Saints of the Roman Calendar [./saint-en.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/saint-en.json)
+- Saints of the Roman Calendar (French) [./saint-fr.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/saint-fr.json)
 
 
 #### feature requests
-- The saints `Coming soon!`
 - The verse of the day `Coming soon!`
 - Divine Mercy Novena `Coming soon!`
 
