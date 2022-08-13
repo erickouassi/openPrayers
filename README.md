@@ -5,10 +5,15 @@ Note: I am occasionally updating the code.
  *(A fork is a copy of a repository)*.
 1. Fork the repository in your account [Click here](https://github.com/erickouassi/openPrayers/fork)
 2. Clone your repository to make a local copy,<br />
-URL will be `https://your-username.github.io/openPrayers`
+   
+Note:  Your URL will be `https://your-username.github.io/openPrayers`
 
-To get direct link of the file with extension `.json`, `.jpg`, `png`, and `mp3` add `?raw=true` at the of url.<br />
-`https://github.com/your-username>/your-repo/blob/main/your-file-name?raw=true`
+Direct link of the file with extension `.json`, `.jpg`, `png`, and `mp3` <br />
+`https://github.com/your-username/your-repo/blob/main/your-file-name?raw=true`
+
+or 
+
+`https://raw.githubusercontent.com/your-username/your-repo/main/your-file-name`
 
 ## <> Available resources
 - Basic Prayer [./basic_prayers.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/basic_prayers.json)
