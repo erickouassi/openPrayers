@@ -1,4 +1,8 @@
 # {JSON} 🔥 Catholic Prayers and Devotions
+A Collection of Prayers:<br />
+Christian prayers, Devotions and audios.
+
+A web services for developers
 
 ## How to
  *(A fork is a copy of a repository)*.
