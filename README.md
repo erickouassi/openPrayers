@@ -19,9 +19,9 @@ or
 ## <> Available resources
 ### Endpoints
 The API style has several endpoints to assist developers. Note that all the endpoints return JSON and are available over https. <br />
-- Basic Prayer [./basic_prayers.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/basic_prayers.json)
-- Calendar 2022 [./dailyrosary_2022.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/rosary/dailyrosary_2022.json)
-- Rosary 7 days Audio [./rosary_day.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/rosary/rosary_day.json)
+- Basic Prayers [./basic_prayers.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/basic_prayers.json)
+- Rosary Prayer Calendar 2022 [./dailyrosary_2022.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/rosary/dailyrosary_2022.json)
+- Rosary Prayer 7-day Audios [./rosary_day.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/rosary/rosary_day.json)
 - The Stations of the Cross [./stations_of_the_cross.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/stations_of_the_cross.json)
 
 
