@@ -28,8 +28,8 @@ or
 - The verse of the day `Coming soon!`
 - Divine Mercy Novena `Coming soon!`
 
-
-```const options = {
+`
+const options = {
 	method: 'GET',
 	headers: {
 		accept: 'application/json',
@@ -39,8 +39,8 @@ or
 fetch('https://raw.githubusercontent.com/erickouassi/openPrayers/main/basic_prayers.json', options)
 	.then(response => response.json())
 	.then(response => console.log(response))
-	.catch(err => console.error(err));```
-
+	.catch(err => console.error(err));
+`
 
 ## Bugs and feature requests
 Any problem? Please report it: all bugs, feature requests, pull requests, feedback, etc., are welcome!
