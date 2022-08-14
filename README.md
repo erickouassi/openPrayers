@@ -36,8 +36,10 @@ The API style has several endpoints to assist developers. Note that all the endp
 - Divine Mercy Novena `Coming soon!`
 
 ## Projects using openPrayers
-Do you want to list your own project here? [Add it here](https://github.com/erickouassi/openPrayers/blob/main/EXAMPLES.md).
+Do you want to list your own project here? [Add it here](#).
 
+- Daily Rosary Prayer: [https://dailyrosary.cf/](https://dailyrosary.cf/)
+- Daily Audio Catholic mass reading: [https://dailyaudio.cf/](https://dailyaudio.cf/)
 
 
 ## Bugs and feature requests
