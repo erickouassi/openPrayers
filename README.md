@@ -35,6 +35,10 @@ The API style has several endpoints to assist developers. Note that all the endp
 - The verse of the day `Coming soon!`
 - Divine Mercy Novena `Coming soon!`
 
+## Projects using openPrayers
+Do you want to list your own project here? [Add it here](https://github.com/erickouassi/openPrayers/EXAMPLES.md).
+
+
 
 ## Bugs and feature requests
 Any problem? Please report it: all bugs, feature requests, pull requests, feedback, etc., are welcome!
