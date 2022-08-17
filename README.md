@@ -4,6 +4,8 @@ Christian prayers, Devotions and audios.
 
 A web services for developers.
 
+I am primarily maintaining this repository for my own use cases. 
+
 ## How to
  *(A fork is a copy of a repository)*.
 1. Fork the repository in your account [Click here](https://github.com/erickouassi/openPrayers/fork)
@@ -51,7 +53,6 @@ If your problem or idea is not addressed yet, please [open a new issue](https://
 
 **If you have questions:**  [erickouassi.com/contact](https://erickouassi.com/contact.html)
 
-I am primarily maintaining this repository for my own use cases. 
 
 If you want any help setting your rosary web app for yourself, group or church, I’d love to help! [contact me here](https://erickouassi.com/contact.html).
 
