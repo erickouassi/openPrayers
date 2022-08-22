@@ -57,6 +57,9 @@ If your problem or idea is not addressed yet, please [open a new issue](https://
 If you want any help setting your rosary web app for yourself, group or church, I’d love to help! [contact me here](https://erickouassi.com/contact.html).
 
 
+# Buy me a coffee 🥤¶
+If this project help you reduce time to develop, please consider [buying me a coffee](https://github.com/sponsors/erickouassi) :)
+
 
 Note: I am occasionally updating the code.
 
