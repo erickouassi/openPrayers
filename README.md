@@ -1,5 +1,5 @@
-# {JSON} 🔥 Catholic Prayers and Devotions
-A Collection of Prayers:<br />
+# A Collection of Prayers {JSON} 🔥 
+Catholic Prayers and Devotions:<br />
 Christian prayers, Devotions and audios.
 
 A web services for developers.
