@@ -36,6 +36,8 @@ The API style has several endpoints to assist developers. Note that all the endp
 
 ### Use in your own language
 
+I prefered javascript(Fetch) but you can use PHP, Python, Java, etc
+
 ``` 
 var requestOptions = {
     method: 'GET',
