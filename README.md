@@ -34,6 +34,19 @@ The API style has several endpoints to assist developers. Note that all the endp
 - Saints of the Roman Calendar [./saints-en.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/saints-en.json)
 - Saints of the Roman Calendar (French) [./saints-fr.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/saints-fr.json)
 
+### Use in your own language
+
+``` 
+var requestOptions = {
+    method: 'GET',
+    redirect: 'follow'
+  };
+
+  fetch("myURL", requestOptions)
+    .then(response => response.text())
+    .then(result => console.log(result))
+    .catch(error => console.log('error', error));
+```
 
 #### feature requests
 - The verse of the day `Coming soon!`
