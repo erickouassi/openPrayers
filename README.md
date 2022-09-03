@@ -1,4 +1,4 @@
-# A Collection of Prayers {JSON} 🔥 
+# A Collection of Prayers 
 Catholic Prayers and Devotions:<br />
 Christian prayers, Devotions and audios.
 
@@ -45,7 +45,6 @@ var requestOptions = {
   };
 
   fetch("myURL", requestOptions)
-    .then(response => response.text())
     .then(result => console.log(result))
     .catch(error => console.log('error', error));
 ```
