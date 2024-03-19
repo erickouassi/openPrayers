@@ -1,16 +1,16 @@
 # A Collection of Prayers 
 Catholic Prayers and Devotions:<br />
-Christian prayers, Devotions and audios.
+Christian prayers, Devotions, and audios.
 
-A web services for developers.
+A web service for developers.
 
-I am primarily maintaining this repository for my own use cases. 
+I am primarily maintaining this repository for my use cases. 
 
 ## How to
  *(A fork is a copy of a repository)*.
 1. Fork the repository in your account [Click here](https://github.com/erickouassi/openPrayers/fork)
 2. Clone your repository to make a local copy
-3. Use your own data (`.json`, `.jpg`, `.png`, and `.mp3`)
+3. Use your data (`.json`, `.jpg`, `.png`, and `.mp3`)
    
 Note:  Your URL will be `https://your-username.github.io/openPrayers`
 
@@ -34,9 +34,9 @@ The API style has several endpoints to assist developers. Note that all the endp
 - Saints of the Roman Calendar [./saints-en.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/saints-en.json)
 - Saints of the Roman Calendar (French) [./saints-fr.json](https://raw.githubusercontent.com/erickouassi/openPrayers/main/saints-fr.json)
 
-### Use in your own language
+### Use in your language
 
-I prefered javascript(Fetch) but you can use PHP, Python, Java, etc
+I preferred javascript(Fetch) but you can use PHP, Python, Java, etc
 
 ``` 
 var requestOptions = {
@@ -54,8 +54,8 @@ var requestOptions = {
 - Divine Mercy Novena `Coming soon!`
 
 ## Projects using openPrayers
-Do you want to list your own project here? 
-[contact me here](https://erickouassi.com/contact.html) to add your own project now.
+Do you want to list your project here? 
+[contact me here](https://erickouassi.blogspot.com/p/contact-us.html) to add your own project now.
 
 - Daily Rosary Prayer: [https://dailyrosary.cf/](https://dailyrosary.cf/)
 - Daily Audio Catholic mass reading: [https://dailyaudio.cf/](https://dailyaudio.cf/)
