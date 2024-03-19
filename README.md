@@ -59,6 +59,7 @@ Do you want to list your own project here?
 
 - Daily Rosary Prayer: [https://dailyrosary.cf/](https://dailyrosary.cf/)
 - Daily Audio Catholic mass reading: [https://dailyaudio.cf/](https://dailyaudio.cf/)
+- The Radical Christian: [https://theradicalchristian.vercel.app/](https://theradicalchristian.vercel.app/)
 
 
 ## Bugs and feature requests
